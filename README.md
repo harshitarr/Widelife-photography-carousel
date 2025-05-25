@@ -1,37 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Wildlife Carousel
 
-## Getting Started
+A visually striking, auto-rotating carousel built with React and Tailwind CSS that showcases different wild animals with immersive images and descriptive text.
 
-First, run the development server:
+##  Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Auto-rotating slides every 5 seconds
+- Smooth fade transitions between slides
+- Manual navigation using arrows
+- Clickable thumbnails for quick slide selection
+- Responsive design for all screen sizes
+- Tailwind CSS styling with backdrop blur and hover animations
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Screenshot
+![image](https://github.com/harshitarr/Widelife-photography-carousel/blob/main/public/screenshot.png)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Demo Video
+[
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Slide Data
 
-## Learn More
+Each slide displays:
 
-To learn more about Next.js, take a look at the following resources:
+- **Title** (e.g., "LEOPARD")
+- **Subtitle** (e.g., "SILENT MAJESTY")
+- **Description**
+- **Background image**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+##  Technologies Used
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- React (with Hooks)
+- Tailwind CSS
+- JavaScript (ES6)
+- Next.js compatible (`'use client'` directive)
 
-## Deploy on Vercel
+## 📁 File Structure
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-"# Widelife-photography-carousel" 
