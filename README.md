@@ -15,7 +15,7 @@ A visually striking, auto-rotating carousel built with React and Tailwind CSS th
 ![image](https://github.com/harshitarr/Widelife-photography-carousel/blob/main/public/screenshot.png)
 
 ## Demo Video
-[
+[Widelife-Carousel](https://drive.google.com/file/d/1XgTIrTQ9zLKFNjJH_LCbowZpF3V8IXN_/view?usp=sharing)
 
 ## Slide Data
 
