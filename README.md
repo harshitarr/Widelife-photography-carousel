@@ -14,8 +14,8 @@ A visually striking, auto-rotating carousel built with React and Tailwind CSS th
 ## Screenshot
 ![image](https://github.com/harshitarr/Widelife-photography-carousel/blob/main/public/screenshot.png)
 
-## Demo Video
-[Widelife-Carousel](https://drive.google.com/file/d/1XgTIrTQ9zLKFNjJH_LCbowZpF3V8IXN_/view?usp=sharing)
+## Demo Link
+[Widelife-Carousel](https://widelife-photography-carousel.vercel.app/)
 
 ##  Technologies Used
 
@@ -55,16 +55,16 @@ zoo/
 ```
 
 ## Installation
-# Clone the repository
+## Clone the repository
 ```bash
 git clone https://github.com/harshitarr/Widelife-photography-carousel.git
 cd Widelife-photography-carousel
 ```
-# Install dependencies
+## Install dependencies
 ```bash
 npm install
 ```
-# Run the development server
+## Run the development server
 ```bash
 npm run dev
 ```
